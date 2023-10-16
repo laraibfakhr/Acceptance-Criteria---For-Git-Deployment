@@ -1,4 +1,4 @@
-Feature: Settings\\Values in Data Model
+Feature: Settings\\Values in Data Model to be updated
 @BQM2-254
     Scenario Outline: The Business Nature field in company clients within setting should have the updated data model
         Given the admin user logins into the BUPA admin portal
